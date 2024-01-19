@@ -34,10 +34,6 @@ To invite OpenSRC to your server or check out the source code, use the following
 2. Mention `@OpenSRC` or use the bot's ID to trigger its responses.
 3. Explore the OSINT capabilities and gather information with the provided commands.
 
-## Contributing
-
---Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md).--
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
