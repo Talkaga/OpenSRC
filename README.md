@@ -1,7 +1,5 @@
 # OpenSRC Discord Bot
 
-![OpenSRC](https://cdn.discordapp.com/attachments/1198006481262489771/1198009782104236152/6e030682391fd01bf414a003d32b2448.jpg?ex=65bd588d&is=65aae38d&hm=91a7306cc2a959623ec3e64753198a2bec84e16484129ab8823da4cfe7cce9da&)
-
 ## Introduction
 
 🤖 OpenSRC is a Discord bot dedicated to OSINT (Open Source Intelligence). Unleash the power of information gathering as OpenSRC assembles data like pieces of a puzzle, revealing insights from the digital realm.
@@ -34,6 +32,10 @@ To invite OpenSRC to your server or check out the source code, use the following
 2. Mention `@OpenSRC` or use the bot's ID to trigger its responses.
 3. Explore the OSINT capabilities and gather information with the provided commands.
 
+![OpenSRC](https://cdn.discordapp.com/attachments/1198006481262489771/1198009782104236152/6e030682391fd01bf414a003d32b2448.jpg?ex=65bd588d&is=65aae38d&hm=91a7306cc2a959623ec3e64753198a2bec84e16484129ab8823da4cfe7cce9da&)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
