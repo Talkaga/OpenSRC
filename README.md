@@ -21,7 +21,7 @@ When you mention `@OpenSRC` or use the bot's ID, it responds with information ab
 
 ## Getting Started
 
-To invite OpenSRC to your server or check out the source code, use the following links:
+To invite OpenSRC to your server, use the following links:
 
 - [**Invite OpenSRC  ✉️**](https://discord.com/api/oauth2/authorize?client_id=1197620865341341696&permissions=0&scope=bot)
 - [**GitHub  🎓**](https://github.com/Talkaga/OpenSRC)
