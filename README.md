@@ -7,7 +7,7 @@
 🤖 OpenSRC is a Discord bot dedicated to OSINT (Open Source Intelligence). Unleash the power of information gathering as OpenSRC assembles data like pieces of a puzzle, revealing insights from the digital realm.
 
 > *"In the realm of OSINT, knowledge is the key that opens every door."* 
-> - Anonymous OSINT Pro
+ - Anonymous OSINT Pro
 
 ⚒️ OpenSRC operates solely through commands like `/...`.
 
